@@ -1,7 +1,7 @@
 # 🎥 Vegas Pro Repository  
 Welcome to the Vegas Pro repository! 🚀 This is your ultimate destination for accessing the powerful features of Vegas Pro, a top-tier video editing software known for its versatility and professional-grade tools. Whether you're a beginner or an experienced editor, Vegas Pro offers an array of features to enhance your video production experience.
 
-## 📁 Repository Overview   
+## 📁 Repository Overview     
 - Name: Vegas Pro  
 - Description: A chance to access Vegas Pro for free. Tags: Vegas-Pro-2024-free, download Vegas Pro at no cost, fully functional free version.  
 - Topics: Vegas, video-editing, post-production, free-software, multimedia, filmmaking 
